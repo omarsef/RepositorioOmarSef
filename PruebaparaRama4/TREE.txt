@@ -1,0 +1,9 @@
+.
+├── alpinaNginx.sh
+├── alpine-virt-3.7.0-x86_64.iso
+├── PruebaparaRama4
+│   └── TREE.txt
+├── README.md
+└── texto.txt
+
+1 directory, 5 files
